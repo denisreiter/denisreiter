@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My main research focuses are geospatial artificial intelligence (GeoAI), computer vision, deep learning, automated geodata analysis, building usage classification and small-scale population estimation.
+
 <!--
 **denisreiter/denisreiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
